@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Fonte Deheti
-image: /img/home-jumbotron.jpg
+image: /img/amanecer-arboles-bosque-cabana-221502.jpg
 heading: Club campest
 subheading: Club campestre en Amealco
 mainpitch:
