@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: This is a testing title
+title: Fonte Deheti
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a consciences
-subheading: This is a testing subheading
+heading: Club campest
+subheading: Club campestre en Amealco
 mainpitch:
   title: Why Kaldi
   description: |
@@ -15,7 +15,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/fonte1.jpeg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
